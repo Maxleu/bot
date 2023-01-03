@@ -1,0 +1,18 @@
+Instalar última versão do python
+Site: https://www.python.org/
+
+
+Abrir o CMD e excutar os comando
+
+python -m pip install telethon
+python -m pip install keyboard
+python -m pip install colorama
+python -m pip install pyfiglet
+python -m pip install requests
+
+Pronto, configurado!
+
+
+ID:15954400
+
+Hash: 1db452524f5f8a12f86da09729820c20
